@@ -33,7 +33,7 @@
 - `cat -n file` | Show a file with line numbers
 
 ### Files & Folders
-- `cp iv head.txt title.txt` | Copy, ask before overwriting, show what happened
+- `cp -iv head.txt title.txt` | Copy, ask before overwriting, show what happened
 - `cp -r folder/ backup/` | Copy a folder and everything inside it
 - `mv -iv title.txt head.txt` | Move or Rename, ask before overwriting
 - `mkdir -p data/backup/phone` | Create nested folders in one go
