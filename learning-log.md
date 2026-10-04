@@ -1,2 +1,2 @@
-01/10/26 - Learned how to use VSCode to edit files and then use terminal to update the files on github. Furthermore, understood how formatting works in github e.g `# text` is used for Title.
-04/10/26 - Learned how git works, the different stages and the commands used to interact with these stages. Used further commands to push the local repository to my github, learned how remote - a second copy is made.
+- 01/10/26 - Learned how to use VSCode to edit files and then use terminal to update the files on github. Furthermore, understood how formatting works in github e.g `# text` is used for Title.
+- 04/10/26 - Learned how git works, the different stages and the commands used to interact with these stages. Used further commands to push the local repository to my github, learned how remote - a second copy is made.
