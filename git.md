@@ -20,4 +20,6 @@ Your Folder -> `git add` -> Staging Area -> `git commit` -> Local Repository -> 
 - `git branch -M name` | Rename the branch (-M renames or moves even if the name is taken) | `git branch -M main` 
 - `git remote add origin <URL>` | Registers a remote (second copy) called origin that points to my repo's address on GitHub | `git remote add origin https://github.com/uzairramey/cheatsheets.git`
 - `git remote -v` | It lists the remotes (second copy), `-v` means it also tells the address | `git remote -v`
-- `git push -u origin main` | Push upload the commits, `origin main` uploads my local `main` branch to the remote called `origin` (-u helps it remember the pairing so next time `git push` is enough)
+- `git push -u origin main` | Push upload the commits, `origin main` uploads my local `main` branch to the remote called `origin` (-u helps it remember the pairing so next time `git push` is enough) | `git push -u origin main`
+- `git clone <URL>` | Copies a whole repo from GitHub, along with full history | `git clone https://github.com/uzairramey/cheatsheets.git` `git clone https://github.com/uzairramey/cheatsheets.git cheatsheets_copy` (Rename the folder)| Once per project per computer; sets up `origin` automatically; don't clone it in another repo folder
+- `git push` | Downloads new commits from GitHub and uploads to the new branch | `git push` | Use before starting work; commit my own work before
