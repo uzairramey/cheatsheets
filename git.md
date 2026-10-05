@@ -24,5 +24,5 @@ Your Folder -> `git add` -> Staging Area -> `git commit` -> Local Repository -> 
 - `git clone <URL>` | Copies a whole repo from GitHub, along with full history | `git clone https://github.com/uzairramey/cheatsheets.git` `git clone https://github.com/uzairramey/cheatsheets.git cheatsheets_copy` (Rename the folder)| Once per project per computer; sets up `origin` automatically; don't clone it in another repo folder
 - `git pull` | Downloads new commits from GitHub and uploads to the new branch | `git pull` | Use before starting work; commit my own work before
 - `git pull --no-rebase` | In case of conflict it combines using a merge, not a rebase | `git pull --no-rebase`
-- `git diff` | Shows changes made but not staged | `git diff` | New untracked files doen't show. `+` means line added, `-` means line removed
+- `git diff` | Shows changes made but not staged | `git diff` | New untracked files doen't show. `+` means line added, `-` means line removed. Press `q` to exit
 - `git diff --staged` | Shows what the next commit will have | `git diff --staged` | Run it before the comitting

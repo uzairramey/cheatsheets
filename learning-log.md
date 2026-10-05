@@ -1,2 +1,3 @@
 - 01/10/26 - Learned how to use VSCode to edit files and then use terminal to update the files on github. Furthermore, understood how formatting works in github e.g `# text` is used for Title.
 - 04/10/26 - Learned how git works, the different stages and the commands used to interact with these stages. Used further commands to push the local repository to my github, learned clone and pull commands and how to deal with conflicts.
+- 05/10/26 - Leanred how to look at the changes using `git diff` and `git diff --staged`. Did some exercises to get a good grip on everything learned so far.
